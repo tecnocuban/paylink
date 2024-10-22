@@ -2,45 +2,45 @@
   "theme": "night",
 
   "properties": {
-    "name": "Daniel Castillo",
-    "description": "Frontend web developer, engineer and tireless creator. Building products that make developers happy.",
-    "alt": "Photo of Daniel Castillo",
-    "hero": "./images/daniel-castillo.png"
+    "name": "TecnoCuban",
+    "description": "Live in Crypto is possible even from #Cuba 🇨🇺",
+    "alt": "Photo of TecnoCuban",
+    "hero": "./images/tecno.png"
   },
 
   "Social": [
     {
       "label": "Email",
       "value": "bx-envelope",
-      "link": "mailto:dlcastillo3015@gmail.com"
+      "link": "mailto:tecnocuban@gmail.com"
     },
-    { "label": "Link", "value": "bx-link", "link": "https://dlcastillop.com" },
+    { "label": "Link", "value": "bx-link", "link": "" },
     {
       "label": "GitHub",
       "value": "bxl-github",
-      "link": "https://github.com/dlcastillop"
+      "link": "https://github.com/tecnocuban"
     },
     {
       "label": "Twitter",
       "value": "bxl-twitter",
-      "link": "https://twitter.com/dlcastillop"
+      "link": "https://x.com/tecnocuban"
     },
     {
       "label": "LinkedIn",
       "value": "bxl-linkedin",
-      "link": "https://linkedin.com/in/dlcastillop"
+      "link": ""
     },
     {
       "label": "Instagram",
       "value": "bxl-instagram",
-      "link": "https://instagram.com/dlcastillop"
+      "link": "hlop"
     },
     { "label": "Discord", "value": "bxl-discord", "link": "" },
     { "label": "Facebook", "value": "bxl-facebook", "link": "" },
     { "label": "Medium", "value": "bxl-medium", "link": "" },
     { "label": "Pinterest", "value": "bxl-pinterest", "link": "" },
     { "label": "Snapchat", "value": "bxl-snapchat", "link": "" },
-    { "label": "Telegram", "value": "bxl-telegram", "link": "" },
+    { "label": "Telegram", "value": "bxl-telegram", "link": "https://t.me/tecnocuban_support_bot" },
     { "label": "TikTok", "value": "bxl-tiktok", "link": "" },
     { "label": "Twitch", "value": "bxl-twitch", "link": "" },
     { "label": "Vimeo", "value": "bxl-vimeo", "link": "" },
@@ -54,7 +54,7 @@
     {
       "id": "btc",
       "label": "Bitcoin",
-      "value": "bc1qejahgjmqnmyrw7jvn0d7evfdq6ssjl3wq7hfle",
+      "value": "",
       "img": "./images/payments/btc.svg"
     },
     {
@@ -66,7 +66,7 @@
     {
       "id": "matic",
       "label": "Matic",
-      "value": "",
+      "value": "0x0F9075074A02f5Bc4a984c8e1ac6b28fC44B6848",
       "img": "./images/payments/matic.svg"
     },
     {
@@ -78,13 +78,13 @@
     {
       "id": "eth",
       "label": "Ethereum",
-      "value": "0x59C864f658caD68A19a97499755080c056079988",
+      "value": "",
       "img": "./images/payments/eth.svg"
     },
     {
       "id": "ltc",
       "label": "Litecoin",
-      "value": "",
+      "value": "ltc1qtf0agkqxmu2sk0rel9ra4w758lk5e2qc2wc2fn",
       "img": "./images/payments/ltc.svg"
     },
     {
@@ -95,8 +95,8 @@
     },
     {
       "id": "usdt",
-      "label": "USDT (TRC20)",
-      "value": "TFPqkDJaqdHxp5UiNoEvTPj7DJwkuX4A7r",
+      "label": "USDT (POL)",
+      "value": "0x0F9075074A02f5Bc4a984c8e1ac6b28fC44B6848",
       "img": "./images/payments/usdt.svg"
     },
     {
@@ -114,13 +114,13 @@
     {
       "id": "trx",
       "label": "Tron",
-      "value": "TFPqkDJaqdHxp5UiNoEvTPj7DJwkuX4A7r",
+      "value": "TCYw23VbnPNrFackb2Gks4PcMnmuvdpTLM",
       "img": "./images/payments/trx.svg"
     },
     {
       "id": "qvapay",
       "label": "QvaPay",
-      "value": "https://qvapay.com/payme/dlcastillop",
+      "value": "",
       "img": "./images/payments/qvapay.svg"
     },
     {
